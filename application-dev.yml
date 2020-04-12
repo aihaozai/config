@@ -14,3 +14,4 @@ management:  #actuator
       #include: refresh,health,info #打开部分
 
 
+me: 666666
